@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d3e73457935d0a14","x":-293,"y":-99,"width":250,"height":60,"type":"text","text":"# Ethics"},
+		{"id":"5f50e5d142cc6381","x":-130,"y":-3,"width":250,"height":60,"type":"text","text":"**Define**: \nA Branch of philosophy deals with ideal human behaviour "}
+	],
+	"edges":[]
+}
