@@ -8,16 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b185e4ca86144b40",
+            "id": "12eb382677f6d10c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "CE and PP Exam.canvas",
                 "viewState": {
-                  "x": 7.443982983576616,
-                  "y": 19.276155871881315,
-                  "zoom": 1
+                  "x": 506.109912914573,
+                  "y": -243.17499706092985,
+                  "zoom": -2.222222222222222
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "CE and PP Exam.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "CE and PP Exam.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "CE and PP Exam.canvas"
               }
             }
           }
@@ -150,49 +150,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "43a7436992970653",
-    "type": "floating",
-    "children": [
-      {
-        "id": "644d6e9219223dc9",
-        "type": "window",
-        "children": [
-          {
-            "id": "35da84b335281152",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ca25dc026bf04407",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Resources/Unit1_CEPP.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 231,
-        "y": 152,
-        "width": 1025,
-        "height": 801,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b185e4ca86144b40",
+  "active": "12eb382677f6d10c",
   "lastOpenFiles": [
+    "CE and PP Exam.canvas",
     "Resources/Unit1_CEPP.pdf",
-    "Untitled.canvas",
+    "Kantian Deontology.md",
+    "Philosopher's approach.md",
+    "Ethical Relativism.md",
+    "Philosophical definition ethics.md",
+    "Ethical Objectivism.md",
     "Resources/Unit_1_a_CEPP.pdf",
     "Resources/MOOR-1985-Metaphilosophy.pdf",
-    "Computer Ethics and Public Policy.md",
     "Resources",
+    "Computer Ethics and Public Policy.md",
     "Welcome.md"
   ]
 }
