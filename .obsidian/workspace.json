@@ -11,15 +11,14 @@
             "id": "12eb382677f6d10c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CE and PP Exam.canvas",
-                "viewState": {
-                  "x": 506.109912914573,
-                  "y": -243.17499706092985,
-                  "zoom": -2.222222222222222
-                }
-              }
+                "file": "AI/Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planning"
             }
           }
         ]
@@ -42,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -57,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -65,15 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a9894efcefebc48f",
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CE and PP Exam.canvas",
+                "file": "AI/Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Planning"
             }
           },
           {
@@ -106,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CE and PP Exam.canvas",
+                "file": "AI/Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Planning"
             }
           },
           {
@@ -120,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -129,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CE and PP Exam.canvas"
-              }
+                "file": "AI/Planning.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Planning"
             }
           }
         ]
@@ -152,17 +164,24 @@
   },
   "active": "12eb382677f6d10c",
   "lastOpenFiles": [
-    "CE and PP Exam.canvas",
+    "AI/Topic List.md",
+    "AI/Regression.md",
+    "AI/Hierarchical.md",
+    "README.md",
+    "AI/Planning.md",
+    "Computer Ethics and Public Policy.md",
+    "CE and PP",
+    "AI/Non-Linear planning.md",
+    "CE and PP/CE and PP Exam.canvas",
     "Resources/Unit1_CEPP.pdf",
-    "Kantian Deontology.md",
-    "Philosopher's approach.md",
-    "Ethical Relativism.md",
-    "Philosophical definition ethics.md",
-    "Ethical Objectivism.md",
+    "CE and PP/Kantian Deontology.md",
+    "CE and PP/Philosopher's approach.md",
+    "CE and PP/Ethical Relativism.md",
+    "CE and PP/Philosophical definition ethics.md",
+    "CE and PP/Ethical Objectivism.md",
     "Resources/Unit_1_a_CEPP.pdf",
     "Resources/MOOR-1985-Metaphilosophy.pdf",
     "Resources",
-    "Computer Ethics and Public Policy.md",
     "Welcome.md"
   ]
 }

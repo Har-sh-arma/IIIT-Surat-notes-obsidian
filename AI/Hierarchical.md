@@ -1,4 +1,4 @@
->A planning approach that involves organizing tasks and actions in multiple levels of abstraction and hierarchy.
+>A planning approach that involves organising tasks and actions in multiple levels of abstraction and hierarchy.
 
 - High Level Task(Ultimate Goal) -> \[... , Sub Goals (Actions)]
 - DAG
