@@ -1,0 +1,7 @@
+- [[Non-Linear planning]]
+- Reactive systems - Rule based, current stimuli based, no learning from past experiences
+- Expert Systems
+	- Emulate human experts
+	- Components are Knowledge base, Inference engine etc
+- Loss Function -> One data point
+- Cost Function -> Dataset
