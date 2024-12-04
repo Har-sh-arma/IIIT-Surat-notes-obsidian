@@ -3,7 +3,6 @@
 - Expert Systems
 	- Emulate human experts
 	- Components are Knowledge base, Inference engine etc
-- Loss Function -> One data point
-- Cost Function -> Dataset
 - [[Regression]]
+- [[Loss Functions]]
 - 

@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"b18a3ed0e26b27d4","x":-180,"y":-60,"width":260,"height":50,"type":"text","text":"Key Exchange Algorithms"},
+		{"id":"7bcff5e25b8ca7a9","x":-515,"y":120,"width":100,"height":60,"type":"text","text":"Null"},
+		{"id":"ebdace26fbd84c9e","type":"text","text":"Anonymous Diffie Hellman","x":-275,"y":120,"width":190,"height":70},
+		{"id":"2c3adffb56104eed","type":"text","text":"Ephemeral Diffie Hellman","x":-75,"y":120,"width":190,"height":70},
+		{"id":"eeaa0ab981667448","type":"text","text":"Fixed Diffie Hellman","x":125,"y":120,"width":190,"height":70},
+		{"id":"44b76656291ce71c","type":"text","text":"Fortezza","x":325,"y":120,"width":190,"height":70},
+		{"id":"6d0aa2d4b7d265e7","type":"text","text":"RSA","x":-395,"y":120,"width":100,"height":60},
+		{"id":"01e91affc9355920","x":-680,"y":320,"width":240,"height":121,"type":"text","text":"Uses the Server Public key to encrypt and share the Pre-secret"},
+		{"id":"b96fb1801a2d702b","x":-662,"y":500,"width":735,"height":400,"type":"text","text":"![[Pasted image 20241203120824.png]]\n\n\tc-> client secret\n\ts-> server secret\n\tg-> generator\n\tp-> modulo\n"},
+		{"id":"586be74703eac4d0","x":89,"y":320,"width":250,"height":192,"type":"text","text":"Sign the anonymous one ka first request with server secret so it can be verified on the client side.\n"}
+	],
+	"edges":[
+		{"id":"fe5fc374154ed027","fromNode":"b18a3ed0e26b27d4","fromSide":"bottom","toNode":"7bcff5e25b8ca7a9","toSide":"top"},
+		{"id":"437f44e68c7d6a07","fromNode":"b18a3ed0e26b27d4","fromSide":"bottom","toNode":"6d0aa2d4b7d265e7","toSide":"top"},
+		{"id":"6c746f90db804a82","fromNode":"b18a3ed0e26b27d4","fromSide":"bottom","toNode":"ebdace26fbd84c9e","toSide":"top"},
+		{"id":"ddd9eab067098b0d","fromNode":"b18a3ed0e26b27d4","fromSide":"bottom","toNode":"2c3adffb56104eed","toSide":"top"},
+		{"id":"bf5bf163054d6b7d","fromNode":"b18a3ed0e26b27d4","fromSide":"bottom","toNode":"eeaa0ab981667448","toSide":"top"},
+		{"id":"ffcb3a68378ff5d5","fromNode":"b18a3ed0e26b27d4","fromSide":"bottom","toNode":"44b76656291ce71c","toSide":"top"},
+		{"id":"4ce595f792a33348","fromNode":"6d0aa2d4b7d265e7","fromSide":"bottom","toNode":"01e91affc9355920","toSide":"top"},
+		{"id":"8807cb845b5d6d83","fromNode":"ebdace26fbd84c9e","fromSide":"bottom","toNode":"b96fb1801a2d702b","toSide":"top"},
+		{"id":"6c33e08661fa54a5","fromNode":"2c3adffb56104eed","fromSide":"bottom","toNode":"586be74703eac4d0","toSide":"top"},
+		{"id":"9c07a654cfe08c2d","fromNode":"b96fb1801a2d702b","fromSide":"right","toNode":"586be74703eac4d0","toSide":"bottom"}
+	]
+}

@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cd54b6bb775cf8f5",
+        "id": "83bfbbdddf2a14bf",
         "type": "tabs",
         "children": [
           {
-            "id": "12eb382677f6d10c",
+            "id": "4034f63c0797a01f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "AI/Planning.md",
-                "mode": "source",
-                "source": false
+                "file": "NS/Notes/L10_Hash_Function.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Planning"
+              "icon": "lucide-file-text",
+              "title": "L10_Hash_Function"
             }
           }
         ]
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Planning.md",
+                "file": "AI/Loss Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Planning"
+              "title": "Backlinks for Loss Functions"
             }
           },
           {
@@ -112,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Planning.md",
+                "file": "AI/Loss Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Planning"
+              "title": "Outgoing links from Loss Functions"
             }
           },
           {
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Planning.md"
+                "file": "AI/Loss Functions.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Planning"
+              "title": "Outline of Loss Functions"
             }
           }
         ]
@@ -162,13 +160,57 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12eb382677f6d10c",
+  "floating": {
+    "id": "152c6596d2cd548f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2cec625ef04f934f",
+        "type": "window",
+        "children": [
+          {
+            "id": "a804f5d056b23e9c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0083eab579c19657",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "NS/Notes/L11_SSL_TLS.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "L11_SSL_TLS"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 172,
+        "y": 52,
+        "width": 1576,
+        "height": 1008,
+        "maximize": false,
+        "zoom": -2.5
+      }
+    ]
+  },
+  "active": "6357093d881b2fa2",
   "lastOpenFiles": [
+    "NS/Notes/L11_SSL_TLS.pdf",
+    "Untitled.canvas",
+    "NS/SSL TLS.md",
+    "Pasted image 20241203144556.png",
+    "NS/Key Exchange.canvas",
+    "Resources/Pasted image 20241203120824.png",
+    "AI/Loss Functions.md",
     "AI/Topic List.md",
+    "AI/Planning.md",
     "AI/Regression.md",
     "AI/Hierarchical.md",
     "README.md",
-    "AI/Planning.md",
     "Computer Ethics and Public Policy.md",
     "CE and PP",
     "AI/Non-Linear planning.md",
